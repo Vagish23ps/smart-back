@@ -38,6 +38,17 @@ SmartBack brings intuitive navigation by making ESC context-aware.
 
 ---
 
+## Download
+
+[![Download SmartBack](https://img.shields.io/badge/Download-EXE-blue?style=for-the-badge)](https://github.com/Vagish23ps/smart-back/releases)
+
+### Quick Start
+- Download the `.exe` from Releases
+- Run as Administrator
+- Press ESC and enjoy smart navigation
+
+---
+
 ## Supported Browsers
 
 | Browser | Process |
