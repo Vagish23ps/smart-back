@@ -1,0 +1,4 @@
+# SmartBack — Build / Dev Dependencies
+# Install with: pip install -r requirements-dev.txt
+
+pyinstaller>=6.0.0

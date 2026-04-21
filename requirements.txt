@@ -1,0 +1,6 @@
+# SmartBack — Runtime Dependencies
+# Install with: pip install -r requirements.txt
+
+keyboard>=0.13.5
+pywin32>=306
+psutil>=5.9.8
